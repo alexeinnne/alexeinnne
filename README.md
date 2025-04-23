@@ -26,6 +26,15 @@
 
 ---
 
+### 🗂️ Portafolio de Proyectos
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [📊 SHOrganization](https://github.com/alexeinnne/SHOrganization) | Limpieza, visualización y resumen de datos administrativos de una organización de salud. Incluye gráficas e informe en PDF. | Python, Pandas, Excel, Matplotlib |
+| [🧪 Sprint-6-Proyect](https://github.com/alexeinnne/Sprint-6-Proyect) | Análisis de conversión en A/B test para un flujo de e-commerce. Incluye EDA, validación estadística y recomendaciones. | Python, Pandas, A/B testing, SciPy |
+
+---
+
 ### 🌐 Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandra%20Torres-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alejandra-torres-602146259/)  
 
