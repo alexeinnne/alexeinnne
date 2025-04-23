@@ -1,17 +1,27 @@
-💻 Data Analyst | 📊 Python & SQL Enthusiast | 🎪 Aerial Artist
+<h1 align="center">Hola, soy Alejandra 🦋</h1>
+<h3 align="center">Sociologist | Data Analyst | Aerial Artist</h3>
 
-Soy Alejandra, una socióloga apasionada por los datos, el análisis crítico y la exploración creativa. Me formé como analista de datos y he trabajado con proyectos que combinan Python, SQL, visualización de datos y herramientas como Jupyter y Tableau.
+---
 
-Me interesa aplicar el análisis de datos a problemas del mundo real: desde estudios sociales hasta procesos de negocio. Actualmente desarrollo proyectos de ciencia de datos, dashboards interactivos y análisis exploratorios, mientras combino mi vida profesional con el arte circense y la escritura.
+💻 Actualmente trabajando con datos en Python y SQL, aplicando pensamiento crítico y creatividad a cada proyecto.  
+🎪 Fuera de la pantalla, vuelo en el aire con danza aérea y trapecio.  
+📊 Me interesa analizar patrones, narrar historias con datos y construir puentes entre lo técnico y lo humano.
 
-🧠 Áreas de interés: data storytelling, sociología computacional, A/B testing, análisis de comportamiento de usuario, automatización de reportes.
+---
 
-📌 Proyectos recientes:
+### 🛠️ Lenguajes y herramientas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-- Análisis de cohorts y conversiones en e-commerce
+---
 
-- Visualización y limpieza de bases de datos para evaluación de impacto social
+### 📊 GitHub Stats:
+![Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeinnne&show_icons=true&theme=radical)
 
-- Exploración de redes sociales y emociones en contextos urbanos
+---
 
-🌐 Siempre buscando nuevas formas de combinar pensamiento crítico, análisis técnico y creatividad.
+### 🌐 Encuéntrame en:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandra%20Torres-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alejandra-torres-602146259/)  
+
