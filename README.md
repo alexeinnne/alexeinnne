@@ -1,6 +1,10 @@
 <h1 align="center">Hola, soy Alejandra 🦋</h1>
 <h3 align="center">Sociologist | Data Analyst | Aerial Artist</h3>
 
+<p align="center">
+  <img src="https://github.com/alexeinnne/alexeinnne/blob/main/banner.png" alt="Banner Alejandra Torres"/>
+</p>
+
 ---
 
 💻 Actualmente trabajando con datos en Python y SQL, aplicando pensamiento crítico y creatividad a cada proyecto.  
